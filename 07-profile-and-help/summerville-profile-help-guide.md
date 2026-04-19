@@ -87,7 +87,7 @@ timestamp — the only place in the console where an administrator can see
 their canonical identity record, and the only tab with an Edit button to
 self-maintain the Mobile field.
 
-![](/tmp/_profile_help_md/img/ep-01-my-profile.jpg)
+![Step 1 — My Profile tab](img/ep-01-my-profile.jpg)
 
 ## Step 2: Switch to My Operations and run a date-bounded search
 
@@ -99,7 +99,7 @@ footprint on the platform for the selected operation type — the correct
 evidence when an administrator is asked to attest to their own activity
 during a control review.
 
-![](/tmp/_profile_help_md/img/ep-02-my-operations.jpg)
+![Step 2 — My Operations tab](img/ep-02-my-operations.jpg)
 
 **Step 3: Open Change Password, enter a compliant new password, and
 submit**
@@ -112,7 +112,7 @@ and one uppercase alphabet). Submit to rotate; the platform rejects any
 submission that fails the published policy so there is no
 guess-and-retry loop.
 
-![](/tmp/_profile_help_md/img/ep-03-change-password.jpg)
+![Step 3 — Change Password tab](img/ep-03-change-password.jpg)
 
 ## Step 4: Use Help Docs for contextual, in-console documentation
 
