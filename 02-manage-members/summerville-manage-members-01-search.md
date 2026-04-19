@@ -38,3 +38,9 @@ Pick Manage Members > Search for a Member from the left sidebar. The default fil
 If the member gives a name instead of a user ID, switch the radio to Member Name and split first and last. A dry well surfaces an inline No entries notice rather than an error, so the operator can retry without losing the page.
 
 ![Step 2 — Fall back to a softer filter if no match](img/mm-02-search-no-results.png)
+
+#### Step 3 — Confirm the match and land on the Member Profile
+
+With a valid User ID or Member Name, the search returns a single row that links straight into the Member Profile — in this example, dblake. Clicking the User ID drops the operator onto the profile landing with the name badge, status pill (Active / Locked / Blocked), and Individual ID visible, confirming the search worked and anchoring every downstream safeguard action.
+
+![Step 3 — Confirm the match and land on the Member Profile](img/mm-03-member-profile.png)
