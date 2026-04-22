@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [README](README.md)
 
@@ -16,7 +16,7 @@
 * [Search & Profile](03-manage-business/search-profile.md)
 * [Permissions & Limits](03-manage-business/permissions-limits.md)
 * [User Roles](03-manage-business/user-roles.md)
-* [Recipients & Approvals](03-manage-business/recipients-approvals.md)
+* [recipients-approvals](03-manage-business/recipients-approvals.md)
 * [Business Users](03-manage-business/business-users.md)
 * [Labels](03-manage-business/labels.md)
 * [Onboarding & Permission Templates](03-manage-business/onboarding-permission-templates.md)
