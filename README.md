@@ -30,11 +30,11 @@
 
 ### Manage Content
 
-- [summerville-manage-content-01-banner-ads](04-manage-content/summerville-manage-content-01-banner-ads.md)
-- [summerville-manage-content-02-rates-static-fileexchange](04-manage-content/summerville-manage-content-02-rates-static-fileexchange.md)
-- [summerville-manage-content-03-terms-conditions](04-manage-content/summerville-manage-content-03-terms-conditions.md)
-- [summerville-manage-content-04-notifications-downtime](04-manage-content/summerville-manage-content-04-notifications-downtime.md)
-- [summerville-manage-content-05-fico-groups](04-manage-content/summerville-manage-content-05-fico-groups.md)
+- [banner-ads](04-manage-content/banner-ads.md)
+- [rates-static-fileexchange](04-manage-content/rates-static-fileexchange.md)
+- [terms-conditions](04-manage-content/terms-conditions.md)
+- [notifications-downtime](04-manage-content/notifications-downtime.md)
+- [fico-groups](04-manage-content/fico-groups.md)
 
 ### Reports
 
