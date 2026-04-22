@@ -2,33 +2,33 @@ _Summerville Admin Console › Manage Members › Business Entitlements_
 
 # Manage Members: Business Entitlements
 
-> For commercial signers: what they can do, and what their caps are.
+> For commercial signers: the permissions they hold and the dollar limits that cap what they can move.
 
 ## Step-by-Step Workflow
 
 ### Step 1: Business Entitlements
 
-Fourth blue pill on the profile. Opens Business Permissions and Business Limits, keyed by the Select business dropdown.
+This is the fourth blue pill tab on the profile, and it only appears for members associated with a business relationship. Open it and use the Select business dropdown to scope the view — members who administer multiple businesses will have a separate permissions and limits set for each one.
 
 ![Step 1: Business Entitlements](img/mm-23-business-entitlements-dropdown.png)
 
 ### Step 2: Business Permissions
 
-Pick a business. Each leaf in the tree is a capability (View Transfer, Access Bill Pay, etc.). Search bar jumps to a specific one.
+Select a business to load its permission tree. Each leaf node is a specific capability — View Transfer, Access Bill Pay, Initiate ACH, and so on. The search bar lets you jump directly to a specific permission when you're diagnosing why a user can or can't perform a particular action.
 
 ![Step 2: Business Permissions](img/mm-24-business-permissions.png)
 
 ### Step 3: Business Limits
 
-Count and dollar caps per flow: ACH collection, payroll template, wire. Shows whether the cap is per-transaction, daily, or monthly.
+Shows the count and dollar caps that apply to this member for the selected business — per-transaction, daily, and monthly, broken out by payment flow such as ACH collection, payroll template, and wire. Compare these against the business-level limits to identify which cap is binding when a payment gets declined.
 
 ![Step 3: Business Limits](img/mm-25-business-limits.png)
 
 ## Summary
 
-Commercial-only section on the member profile. Two panels per business the member administers: Permissions (what they can do) and Limits (how much they can move).
+Business Entitlements is a commercial-only section that surfaces per-business permissions and limits for any member who manages a business relationship. Permissions shows the capability tree — what the member is authorized to do. Limits shows the dollar and frequency ceilings on each flow. This is where nine out of ten "my user can't do X" support tickets get resolved without needing to escalate to operations.
 
 ## Key Use Cases
 
-- Audit check: Permissions, search the tree for the specific authorisation.
-- Declined payroll: Limits, read Max Per Transaction / Daily / Monthly.
+- Compliance audit on a commercial signer's access: open Business Permissions, search the tree for the specific authorization in question, screenshot for the audit file.
+- Business owner's payroll ACH was declined: check Business Limits, read the Max Per Transaction and Daily cap for payroll template, compare against the attempted amount.
