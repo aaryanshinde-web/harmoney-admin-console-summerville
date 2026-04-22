@@ -2,46 +2,46 @@ _Summerville Admin Console › Manage Administrators_
 
 # Manage Administrators
 
-> Who has console access, and what they've done with it.
+> Control who holds console access and maintain a full audit trail of every action they take.
 
 ## Step-by-Step Workflow
 
 ### Step 1: Manage Admin Users
 
-Opens the roster. Default lookup is User ID radio + search.
+This is your roster of everyone with console access. Use the User ID radio button to look up a specific admin quickly — it's the fastest path when you have the ID from your access control sheet.
 
 ![Step 1: Manage Admin Users](img/ma-01-admin-users-landing.jpg)
 
 ### Step 2: Search by Name
 
-Toggle the radio to Name. First and Last name fields replace User ID.
+Toggle the radio to Name and enter First and Last name when you only have HR's employee list. This is your fallback for quarterly recertification sweeps when User IDs aren't handy.
 
 ![Step 2: Search by Name](img/ma-02-admin-users-by-name.jpg)
 
 ### Step 3: Add New Admin User
 
-Capture Title, Description, Email, User ID, Mobile, and Role. Role is the access boundary.
+Fill in Title, Description, Email, User ID, Mobile, and Role. The Role field is the access boundary — map it directly to the signed-off access matrix before saving, since this determines what the admin can touch across every module.
 
 ![Step 3: Add New Admin User](img/ma-03-add-new-admin-user.jpg)
 
 ### Step 4: Admin Activity
 
-The audit log. Start Date and End Date are mandatory so every extract is scoped.
+This is your audit log for every admin action taken in the console. Start Date and End Date are both mandatory, which enforces scoped extracts — no one can accidentally pull an unbounded dump of activity.
 
 ![Step 4: Admin Activity](img/ma-04-admin-activity.jpg)
 
 ### Step 5: Date fields required
 
-Clicking Search without dates returns Please select start date / end date.
+Clicking Search without both dates returns "Please select start date / end date." This validation is intentional — it keeps audit exports reproducible and defensible during examiner reviews.
 
 ![Step 5: Date fields required](img/ma-05-admin-activity-validation.jpg)
 
 ## Summary
 
-Two pages: Manage Admin Users for who has access, Admin Activity for what they did.
+Manage Administrators has two distinct surfaces: Manage Admin Users handles provisioning, and Admin Activity handles the audit trail. Keeping them separate reflects the different cadences at which access reviews and activity investigations happen — they serve different stakeholders and should be reviewed independently.
 
 ## Key Use Cases
 
-- New Treasury hire: Add New Admin User, Role = Treasury-Ops.
-- Quarterly recertification: search by Name, reconcile with HR's list.
-- Examiner asks for a log: Admin Activity with the exam window.
+- New Treasury hire needs console access: Add New Admin User, assign Role = Treasury-Ops, confirm against the access matrix.
+- Quarterly access recertification: search by Name, reconcile the list against HR's active employee roster.
+- Examiner requests an activity log for a specific window: Admin Activity with exact Start and End dates matching the exam period.
