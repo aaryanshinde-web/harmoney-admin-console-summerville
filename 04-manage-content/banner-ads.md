@@ -2,26 +2,26 @@ _Summerville Admin Console › Manage Content › Banner Ads_
 
 # Manage Content: Banner Ads
 
-> Dashboard banners with auto-retire on End Date.
+> Publish time-boxed promotional banners to the member dashboard — the Duration window handles retirement automatically.
 
 ## Step-by-Step Workflow
 
 ### Step 1: Banner Ads
 
-Banner register. Empty No Banners to display state is expected on a fresh tenant and after every active banner has expired.
+The banner register showing all active and scheduled creatives. An empty "No Banners to display" state is expected on a fresh tenant or after all active banners have hit their End Date — it's not an error, it just means no campaigns are currently running.
 
 ![Step 1: Banner Ads](img/mc-01-banner-ads-landing.jpg)
 
 ### Step 2: Add Banner Ads
 
-New Banner form: Title, Description, Duration (Start / End), creative (1000x1296), Target Link. Duration drives auto-retirement.
+The New Banner form collects Title, Description, Duration (Start / End dates), creative upload (1000x1296), and Target Link. The Duration window is what drives auto-retirement — once the End Date passes, the banner stops displaying without any manual intervention required.
 
 ![Step 2: Add Banner Ads](img/mc-02-banner-ads-add-banner.jpg)
 
 ## Summary
 
-Marketing publishes dashboard banners here. Each one carries a Duration window that retires the creative on its End Date. No ghost banners.
+Banner Ads is how Marketing publishes promotional content directly to the member-facing dashboard without an engineering ticket. The Duration window is the key operational feature — it ensures banners retire on their scheduled End Date automatically, which eliminates the risk of stale promotional content continuing to run after a campaign closes.
 
 ## Key Use Cases
 
-- 30-day Business Money Market promo: set exact Duration, upload creative, banner retires itself on End Date.
+- 30-day Business Money Market promotion: set exact Start and End dates in Duration, upload the creative, the banner retires itself on End Date with no manual follow-up needed.
