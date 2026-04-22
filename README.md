@@ -6,27 +6,27 @@
 
 ### Manage Administrators
 
-- [summerville-manage-administrators-guide](01-manage-administrators/summerville-manage-administrators-guide.md)
+- [manage-administrators](01-manage-administrators/manage-administrators.md)
 
 ### Manage Members
 
-- [summerville-manage-members-01-search](02-manage-members/summerville-manage-members-01-search.md)
-- [summerville-manage-members-02-profile-actions](02-manage-members/summerville-manage-members-02-profile-actions.md)
-- [summerville-manage-members-03-overview-support](02-manage-members/summerville-manage-members-03-overview-support.md)
-- [summerville-manage-members-04-accounts-activity](02-manage-members/summerville-manage-members-04-accounts-activity.md)
-- [summerville-manage-members-05-devices-login](02-manage-members/summerville-manage-members-05-devices-login.md)
-- [summerville-manage-members-06-business-entitlements](02-manage-members/summerville-manage-members-06-business-entitlements.md)
+- [search](02-manage-members/search.md)
+- [profile-actions](02-manage-members/profile-actions.md)
+- [overview-support](02-manage-members/overview-support.md)
+- [accounts-activity](02-manage-members/accounts-activity.md)
+- [devices-login](02-manage-members/devices-login.md)
+- [business-entitlements](02-manage-members/business-entitlements.md)
 
 ### Manage Business
 
-- [summerville-manage-business-01-search-profile](03-manage-business/summerville-manage-business-01-search-profile.md)
-- [summerville-manage-business-02-permissions-limits](03-manage-business/summerville-manage-business-02-permissions-limits.md)
-- [summerville-manage-business-03-user-roles](03-manage-business/summerville-manage-business-03-user-roles.md)
-- [summerville-manage-business-04-recipients-approvals](03-manage-business/summerville-manage-business-04-recipients-approvals.md)
-- [summerville-manage-business-05-business-users](03-manage-business/summerville-manage-business-05-business-users.md)
-- [summerville-manage-business-06-labels](03-manage-business/summerville-manage-business-06-labels.md)
-- [summerville-manage-business-07-onboarding-permission-templates](03-manage-business/summerville-manage-business-07-onboarding-permission-templates.md)
-- [summerville-manage-business-08-role-templates](03-manage-business/summerville-manage-business-08-role-templates.md)
+- [search-profile](03-manage-business/search-profile.md)
+- [permissions-limits](03-manage-business/permissions-limits.md)
+- [user-roles](03-manage-business/user-roles.md)
+- [recipients-approvals](03-manage-business/recipients-approvals.md)
+- [business-users](03-manage-business/business-users.md)
+- [labels](03-manage-business/labels.md)
+- [onboarding-permission-templates](03-manage-business/onboarding-permission-templates.md)
+- [role-templates](03-manage-business/role-templates.md)
 
 ### Manage Content
 
@@ -38,14 +38,14 @@
 
 ### Reports
 
-- [summerville-reports-01-behavioural](05-reports/summerville-reports-01-behavioural.md)
-- [summerville-reports-02-transaction-notification](05-reports/summerville-reports-02-transaction-notification.md)
-- [summerville-reports-03-generation-history](05-reports/summerville-reports-03-generation-history.md)
+- [behavioural](05-reports/behavioural.md)
+- [transaction-notification](05-reports/transaction-notification.md)
+- [generation-history](05-reports/generation-history.md)
 
 ### Manage System
 
-- [summerville-manage-system-guide](06-manage-system/summerville-manage-system-guide.md)
+- [manage-system](06-manage-system/manage-system.md)
 
 ### Profile & Help
 
-- [summerville-profile-help-guide](07-profile-and-help/summerville-profile-help-guide.md)
+- [profile-help](07-profile-and-help/profile-help.md)
