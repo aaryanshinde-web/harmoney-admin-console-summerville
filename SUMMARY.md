@@ -12,6 +12,7 @@
 
 ## Manage Business
 
+* [Onboarding & Permission Templates](03-manage-business/onboarding-permission-templates.md)
 * [Search & Profile](03-manage-business/search-profile.md)
 * [Permissions & Limits](03-manage-business/permissions-limits.md)
 * [Business Entitlements](02-manage-members/business-entitlements.md)
@@ -19,7 +20,6 @@
 * [Business Recipients & Approval Settings](03-manage-business/recipients-approvals.md)
 * [Business Users](03-manage-business/business-users.md)
 * [Labels](03-manage-business/labels.md)
-* [Onboarding & Permission Templates](03-manage-business/onboarding-permission-templates.md)
 * [Role Templates](03-manage-business/role-templates.md)
 
 ## Reports
