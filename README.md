@@ -15,7 +15,7 @@
 * [overview-support](02-manage-members/overview-support.md)
 * [accounts-activity](02-manage-members/accounts-activity.md)
 * [devices-login](02-manage-members/devices-login.md)
-* [business-entitlements](manage-business/business-entitlements.md)
+* [business-entitlements](02-manage-members/business-entitlements.md)
 
 ### Manage Business
 

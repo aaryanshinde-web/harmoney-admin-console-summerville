@@ -14,7 +14,7 @@
 
 * [Search & Profile](03-manage-business/search-profile.md)
 * [Permissions & Limits](03-manage-business/permissions-limits.md)
-* [Business Entitlements](manage-business/business-entitlements.md)
+* [Business Entitlements](02-manage-members/business-entitlements.md)
 * [User Roles](03-manage-business/user-roles.md)
 * [recipients-approvals](03-manage-business/recipients-approvals.md)
 * [Business Users](03-manage-business/business-users.md)

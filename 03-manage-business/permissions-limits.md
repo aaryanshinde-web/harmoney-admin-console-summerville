@@ -4,7 +4,7 @@ _Summerville Admin Console › Manage Business › Permissions & Limits_
 
 ## Manage Business: Permissions & Limits
 
-> The entity-level capability and dollar ceiling — every user in the business inherits both.
+> The feature-level access and dollar ceiling — every user in the business inherits both.
 
 ### Step-by-Step Workflow
 
