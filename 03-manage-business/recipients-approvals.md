@@ -1,36 +1,36 @@
-# recipients-approvals
+# Business Recipients & Approval Settings
 
-_Summerville Admin Console › Manage Business › Recipients & Approvals_
+_Summerville Admin Console › Manage Business › Business Recipients & Approval Settings_
 
-## Manage Business: Recipients & Approval Settings
+## Manage Business: Business Recipients & Approval Settings
 
-> The payee master list and the dual-control thresholds — together these are the first line of defense against BEC and payment fraud.
+> Two independent sections of the business profile — Business Recipients holds the saved external payees, and Approval Settings holds the dual-control approver counts per payment type.
 
 ### Step-by-Step Workflow
 
 #### Step 1: Business Recipients
 
-The master list of external bank contacts authorized for ACH and wire payments, each tagged by recipient type and verification status. Treat this list as the business's authorized payee register — anything unverified or stale here is a fraud risk.
+The list of external bank contacts saved for ACH and wire payments, each tagged by recipient type. This is the business's saved payee register — pruning stale entries here is part of routine hygiene.
 
 ![Step 1: Business Recipients](../.gitbook/assets/mb-16-business-recipients.png)
 
 #### Step 2: Recipient Detail
 
-Click any row to see the full record: name, bank, masked routing and account numbers, recipient type, and verification status. Confirm all fields against the supporting documentation on file before marking a recipient as Verified — this step is the KYC checkpoint for outbound payment rails.
+Click any row to see the full record: name, bank, masked routing and account numbers, and recipient type. Use this view to confirm the bank details on file when a payment dispute mentions a specific payee.
 
 ![Step 2: Recipient Detail](../.gitbook/assets/mb-17-recipient-detail.png)
 
 #### Step 3: Approval Settings
 
-Defines how many approvals each payment flow requires before release. Low-value ACH typically needs one; high-value ACH, wires, and ACH collections should require two or more — this is the dual-control configuration that your BSA/AML program depends on for business payments.
+Defines how many approvals each payment flow requires before release. Low-value ACH typically needs one; high-value ACH, wires, and ACH collections should require two or more — this is the dual-control configuration for business payments.
 
 ![Step 3: Approval Settings](../.gitbook/assets/mb-18-approval-settings.png)
 
 ### Summary
 
-Recipients is the authorized payee register — it controls who the business can pay and validates the bank details on file. Approval Settings is the dual-control framework — it controls how many people must sign off before any payment goes out. Together these two surfaces represent the primary operational controls against business email compromise and unauthorized payment initiation for commercial members.
+Business Recipients is the saved payee list — it shows who the business can pay and the bank details on file. Approval Settings is the dual-control framework — it sets how many approvers must sign off on each payment type before release. The two sections are independent and edited separately.
 
 ### Key Use Cases
 
-* Phishing attempt reported on a business account: audit the recipient list for unrecognized payees, remove stale entries, and raise high-value ACH and wire approval counts to two or more.
-* Quarterly KYC review on commercial relationships: verify each recipient row against supporting documentation, confirm verified status is current before the next payment cycle.
+* Phishing attempt reported on a business account: review the recipient list for unfamiliar payees, remove stale entries, and raise the approval count for high-value ACH and wires in Approval Settings.
+* Quarterly recipient review on a commercial business: open Recipient Detail on each row, confirm the bank details still match what's on file with the business.

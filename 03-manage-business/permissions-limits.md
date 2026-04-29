@@ -1,42 +1,60 @@
-# Permissions & Limits
+# Business Permissions & Limits
 
-_Summerville Admin Console › Manage Business › Permissions & Limits_
+_Summerville Admin Console › Manage Business › Business Permissions & Limits_
 
-## Manage Business: Permissions & Limits
+## Manage Business: Business Permissions & Limits
 
-> The feature-level access and dollar ceiling — every user in the business inherits both.
+> The feature-level access and dollar ceiling for the business — every user inherits both.
 
 ### Step-by-Step Workflow
 
 #### Step 1: Business Permissions
 
-The live feature catalogue for this business entity — shows exactly which payment and account capabilities are currently active: ACH, wires, bill pay, scheduled transfers, recipients, and more. This is your read-only confirmation before making any change.
+The live feature catalogue for this business — shows which payment and account capabilities are currently active: ACH, wires, bill pay, scheduled transfers, recipients, and more. Read this view first to confirm the current state before any change.
 
 ![Step 1: Business Permissions](../.gitbook/assets/mb-06-business-permissions-view.png)
 
 #### Step 2: Edit Business Permissions
 
-Two-pane editor: Available on the left, Included on the right. Move features across to match the signed pricing schedule and the BSA/AML approved service agreement — saves propagate to all users on the business at their next login.
+Once **Edit Permission** is clicked, the two-pane editor opens. The left pane shows all the available features for the business; the right pane is for the admin staff to choose which features can be picked in a permission template under Role Management. Save and the change applies on each user's next login.
 
 ![Step 2: Edit Business Permissions](../.gitbook/assets/mb-07-business-permissions-edit.png)
 
 #### Step 3: Business Limits
 
-The entity-level dollar ceiling across all payment flows. No individual user role in this business can exceed these limits regardless of what their role allows — it's the hard ceiling for the entire relationship.
+The dollar ceiling for the business across all payment flows. No user role in this business can exceed these limits — it's the hard cap for the entire business.
 
 ![Step 3: Business Limits](../.gitbook/assets/mb-08-business-limits-view.png)
 
 #### Step 4: Edit Business Limits
 
-Three inputs per payment feature: Max Per Transaction, Max Daily, and Max Monthly. Set these against the credit memo and BSA/AML risk profile for the business — these numbers have direct compliance implications and should be documented as part of the onboarding or change approval.
+The staff can set up the ceiling limit for each of the payment types.
 
 ![Step 4: Edit Business Limits](../.gitbook/assets/mb-09-business-limits-edit.png)
 
+#### Step 5: Business Permissions via Member Profile (Alternative Path)
+
+The same controls are reachable from a member's profile. Open the **Business Entitlements** tab on the profile and use the **Select business** dropdown to scope to the right business — members who administer multiple businesses have a separate permissions and limits set for each one.
+
+![Step 5: Business Permissions via Member Profile](../.gitbook/assets/mm-23-business-entitlements-dropdown.png)
+
+#### Step 6: Business Permissions Tree from the Profile
+
+Each leaf node is a specific capability — View Transfer, Access Bill Pay, Initiate ACH, and so on. The search bar lets you jump directly to a specific permission when you're diagnosing why a user can or can't perform a particular action.
+
+![Step 6: Business Permissions Tree from the Profile](../.gitbook/assets/mm-24-business-permissions.png)
+
+#### Step 7: Business Limits from the Profile
+
+The per-payment-flow caps the member sees through the business — per-transaction, daily, and monthly, broken out by ACH collection, payroll template, wire, and so on. Compare these against the business-level limits to identify which cap is binding when a payment gets declined.
+
+![Step 7: Business Limits from the Profile](../.gitbook/assets/mm-25-business-limits.png)
+
 ### Summary
 
-Permissions and Limits are the two entity-level controls that govern everything every user in the business can do. Permissions defines the capability set — what payment features the business has access to at all. Limits defines the dollar ceilings on each — the binding constraints that no user role can override. Changes to either should always trace back to a signed agreement or credit memo.
+Permissions and Limits are the two controls that govern what every user in the business can do. Permissions defines the capability set — the payment features the business has access to. Limits defines the dollar ceilings on each. The same controls can be reached either from the Business Profile (Manage Business) or from a member's profile via Business Entitlements; both paths edit the same underlying values.
 
 ### Key Use Cases
 
-* Business client expands to international suppliers and needs wires: add Wire Transfer in Edit Business Permissions, raise the wire Max Per Transaction and Daily in Edit Business Limits to match the credit memo.
-* ACH-only onboarding: leave Wires on the Available side until dual-control is documented and in place.
+* Business client expands to international suppliers and needs wires: add Wire Transfer in **Edit Business Permissions**, raise the wire Max Per Transaction and Daily values in **Edit Business Limits** to match the agreed amounts.
+* Quick fix from a support ticket on a single user's profile: open the member, switch to **Business Entitlements**, pick the business, and adjust limits inline without leaving the profile.

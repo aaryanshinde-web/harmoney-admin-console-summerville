@@ -4,7 +4,7 @@ _Summerville Admin Console › Manage Members › Devices & Login_
 
 ## Manage Members: Devices & Login
 
-> Forensic-level visibility into every device, login, and session — the evidence surface for fraud and Reg-E disputes.
+> A view of every device the member has authenticated from, every login event, and every session detail. Use it to investigate unauthorized access reports and to gather evidence on disputed transactions.
 
 ### Step-by-Step Workflow
 

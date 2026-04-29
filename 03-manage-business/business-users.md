@@ -28,7 +28,7 @@ The full expanded hierarchy beneath Manage Transfers and Payments — the same f
 
 #### Step 4: Role Limits
 
-Dollar ceilings per payment flow for this user's role: ACH collections, payroll template, domestic wire. Compare these against the Business Limits to identify whether the binding constraint is at the role level or the entity level — that distinction determines whether the fix needs to happen in User Roles or Business Limits.
+Dollar ceilings per payment flow for this user's role: ACH collections, payroll template, domestic wire. Compare these against the Business Limits to identify whether the binding constraint is at the role level or the business level — that distinction determines whether the fix needs to happen in User Roles or Business Limits.
 
 ![Step 4: Role Limits](../.gitbook/assets/mb-22-role-limits-modal.png)
 
@@ -39,4 +39,4 @@ Business Users is the diagnostic surface for commercial support tickets. The Per
 ### Key Use Cases
 
 * Controller reports they can't release wire transfers: open Role Permissions, expand Manage Transfers and Payments, look for the wire-release leaf and confirm whether it's enabled.
-* Business payment was rejected: compare the attempted amount against Role Limits and Business Limits to identify whether the binding cap is at the role level or the entity level.
+* Business payment was rejected: compare the attempted amount against Role Limits and Business Limits to identify whether the binding cap is at the role level or the business level.

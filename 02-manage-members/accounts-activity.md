@@ -4,7 +4,7 @@ _Summerville Admin Console › Manage Members › Accounts & Activity_
 
 ## Manage Members: Accounts & Activity
 
-> The financial surface-area view — built for dispute investigation, fraud review, and delivery diagnostics.
+> The financial activity view for a member — used for dispute investigation, fraud review, and alert-delivery diagnostics.
 
 ### Step-by-Step Workflow
 
@@ -34,7 +34,7 @@ The dropdown lets you narrow the ledger to a single action type — Balance chec
 
 #### Step 5: All Recipients
 
-The complete list of saved payees across every payment rail — ACH, wire, Zelle. Filter by Membership to scope the view to a single business relationship when the member manages multiple entities.
+The complete list of saved payees across every payment rail — ACH, wire, Zelle. Filter by Membership to scope the view to a single business when the member manages more than one.
 
 ![Step 5: All Recipients](../.gitbook/assets/mm-17-all-recipients.png)
 

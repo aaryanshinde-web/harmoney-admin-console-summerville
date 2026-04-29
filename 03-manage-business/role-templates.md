@@ -34,7 +34,7 @@ Dual-pane Available / Included editor. Every business that currently uses this t
 
 ### Summary
 
-Role Templates are the credit-union-wide standard role definitions that every individual business seeds from. The catalogue ensures consistency across commercial relationships and reduces onboarding configuration time. Editing a template is a policy-level decision — the change propagates to every business using that template, so it must be approved and documented before being committed.
+Role Templates are the credit-union-wide standard role definitions that every individual business seeds from. The catalogue ensures consistency across commercial businesses and reduces onboarding configuration time. Editing a template is a policy-level decision — the change propagates to every business using that template, so it must be approved and documented before being committed.
 
 ### Key Use Cases
 

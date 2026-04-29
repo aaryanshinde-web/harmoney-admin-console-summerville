@@ -1,8 +1,8 @@
-# Labels
+# Business Labels
 
-_Summerville Admin Console › Manage Business › Labels_
+_Summerville Admin Console › Manage Business › Business Labels_
 
-## Manage Business: Labels
+## Manage Business: Business Labels
 
 > The segmentation vocabulary that drives campaigns, risk sweeps, and pricing reviews — own it, document it, and prune it regularly.
 

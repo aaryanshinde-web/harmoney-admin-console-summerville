@@ -16,7 +16,7 @@ Before clicking anything, confirm the name, status pill (Active / Locked / Block
 
 #### Step 2: Reset Password
 
-Choose from Email link, SMS temp password, or Generate Temporary Password based on what contact information is verified and on file. Always enter a ticket number in Admin Comment — this ties the reset to the service request and shows up in Support History for the next staff member who touches this account.
+Choose from Email link, SMS temp password, or Generate Temporary Password based on what contact information is verified and on file. Always enter a ticket number, reason, and any other details in **Admin Comment** — this ties the reset to the service request and shows up in Support History for the next staff member who touches this account.
 
 ![Step 2: Reset Password](../.gitbook/assets/mm-04-reset-password-modal.png)
 
