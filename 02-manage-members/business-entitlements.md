@@ -28,7 +28,9 @@ The dollar caps that apply to this member through the business — per-transacti
 
 ### Summary
 
-Business Entitlements surfaces a member's per-business permissions and limits directly on the member profile. It's the fastest read on what a commercial signer is authorized to do and where their dollar caps sit. Most "my user can't do X" support tickets are resolved here. The same controls can also be edited from the Business Profile via [Business Permissions & Limits](../03-manage-business/permissions-limits.md) — both paths edit the same underlying values.
+Business Entitlements surfaces a member's per-business permissions and limits directly on the member profile. It's the fastest read on what a commercial signer is authorized to do and where their dollar caps sit. Most "my user can't do X" support tickets are resolved here.
+
+The same controls are also editable from the Business Profile via [Business Permissions & Limits](../03-manage-business/permissions-limits.md).
 
 ### Key Use Cases
 

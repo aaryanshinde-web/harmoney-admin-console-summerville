@@ -46,7 +46,7 @@ Seed the new role from the central Role Templates catalogue — Payroll, Busines
 
 ### Summary
 
-Business User Roles is where a business defines the role each of its users carries. Permissions controls what a role can initiate; Limits and Limit Frequency cap the dollar amounts on each. Seeding from a template gives a clean starting point and keeps role configurations consistent across businesses.
+Business User Roles is where the business decides what each role can do. Permissions sets the features the role can use. Limits and Limit Frequency set the dollar caps and how often they apply. Starting from a template gives the role a clean baseline before any business-specific change.
 
 ### Key Use Cases
 

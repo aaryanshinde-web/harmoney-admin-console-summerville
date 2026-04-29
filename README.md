@@ -1,6 +1,15 @@
 # Summerville Admin Console — Staff Operations Guide
 
-> A step-by-step reference for staff using the Summerville Admin Console (Harmoney). Each page walks through one feature with the exact admin screens — pick a page from the contents below to see what to click and what to expect.
+> A practical guide for credit union staff using the Summerville Admin Console (Harmoney). Find a member or business, run the right action, and know what each screen does — every page below walks through one feature with the exact admin screens, the buttons to click, and what the change does on the member-facing side.
+
+Use this guide to:
+- Look up a member or business by ID, name, or attribute, and open their profile.
+- Run support actions on a member's profile — reset password, lock, block, unenroll, manage channels, sync contact details.
+- Configure a business — set permissions and limits, define user roles, manage approval thresholds, and onboard new businesses.
+- Maintain the credit-union-wide settings — banner ads, terms & conditions, FICO groups, downtime notices.
+- Pull operational, behavioural, and transaction reports.
+
+Pick a section from the contents below.
 
 ## Contents
 

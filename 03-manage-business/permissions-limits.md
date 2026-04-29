@@ -16,7 +16,7 @@ The live feature catalogue for this business — shows which payment and account
 
 #### Step 2: Edit Business Permissions
 
-Once **Edit Permission** is clicked, the two-pane editor opens. The left pane shows all the available features for the business; the right pane is for the admin staff to choose which features can be picked in a permission template under Role Management. Save and the change applies on each user's next login.
+Once **Edit Permission** is clicked, the two-pane editor opens. The left pane shows all the available features for the business; the right pane is for the admin staff to choose which features can be picked in a permission template under Role Management.
 
 ![Step 2: Edit Business Permissions](../.gitbook/assets/mb-07-business-permissions-edit.png)
 
