@@ -36,7 +36,7 @@
 
 ## Reports
 
-* [Behavioural](05-reports/behavioural.md)
+* [Behavioural Reports](05-reports/behavioural.md)
 * [Transaction & Notification](05-reports/transaction-notification.md)
 * [Generation & History](05-reports/generation-history.md)
 
