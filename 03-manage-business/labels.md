@@ -1,6 +1,6 @@
 # Business Labels
 
-_Manage Business › Business Labels_
+_Manage Businesses › Manage Labels_
 
 ## Manage Business: Business Labels
 

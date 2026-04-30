@@ -1,6 +1,6 @@
 # Onboarding & Permission Templates
 
-_Manage Business › Onboarding & Permission Templates_
+_Manage Businesses › Add a New Business_
 
 ## Manage Business: Onboarding & Permission Templates
 

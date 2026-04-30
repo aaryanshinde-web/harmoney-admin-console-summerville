@@ -1,6 +1,6 @@
 # Business Recipients & Approval Settings
 
-_Manage Business › Business Search › Search Results › Business Profile › Business Recipients & Approval Settings_
+_Manage Businesses › Search for a Business › Business Profile › Business Recipients_
 
 ## Manage Business: Business Recipients & Approval Settings
 

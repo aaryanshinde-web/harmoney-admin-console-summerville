@@ -1,6 +1,6 @@
 # Accounts & Activity
 
-_Manage Members › Member Search › Search Results › Member Profile › Accounts & Activity_
+_Manage Members › Member Search › Search Results › Member Profile › Accounts_
 
 ## Manage Members: Accounts & Activity
 

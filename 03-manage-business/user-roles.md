@@ -1,6 +1,6 @@
 # Business User Roles
 
-_Manage Business › Business Search › Search Results › Business Profile › Business User Roles_
+_Manage Businesses › Search for a Business › Business Profile › User Roles_
 
 ## Manage Business: Business User Roles
 

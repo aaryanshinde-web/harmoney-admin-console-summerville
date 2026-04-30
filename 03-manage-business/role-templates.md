@@ -1,6 +1,6 @@
 # Role Templates
 
-_Manage Business › Role Templates_
+_Manage Businesses › Template Roles_
 
 ## Manage Business: Role Templates
 

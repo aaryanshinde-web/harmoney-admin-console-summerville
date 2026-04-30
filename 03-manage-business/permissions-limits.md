@@ -1,6 +1,6 @@
 # Business Permissions & Limits
 
-_Manage Business › Business Search › Search Results › Business Profile › Business Permissions & Limits_
+_Manage Businesses › Search for a Business › Business Profile › Business Permissions_
 
 ## Manage Business: Business Permissions & Limits
 

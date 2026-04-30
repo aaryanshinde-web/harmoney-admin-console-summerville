@@ -1,6 +1,6 @@
 # Search
 
-_Manage Members › Member Search_
+_Manage Members › Search for a Member_
 
 ## Manage Members: Search
 
