@@ -1,10 +1,10 @@
 # Accounts & Activity
 
-_Summerville Admin Console › Manage Members › Accounts & Activity_
+_Manage Members › Accounts & Activity_
 
 ## Manage Members: Accounts & Activity
 
-> The financial activity view for a member — used for dispute investigation, fraud review, and alert-delivery diagnostics.
+> Accounts & Activity is the financial activity view for a member. Use it for dispute investigation, fraud review, and alert-delivery diagnostics.
 
 ### Step-by-Step Workflow
 

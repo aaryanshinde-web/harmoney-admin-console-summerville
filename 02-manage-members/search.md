@@ -1,10 +1,10 @@
 # Search
 
-_Summerville Admin Console › Manage Members › Search_
+_Manage Members › Search_
 
 ## Manage Members: Search
 
-> Every member-level action starts here — find the member, then act.
+> Search is the mandatory entry point for every member-level admin action. Find the member first, then act.
 
 ### Step-by-Step Workflow
 

@@ -1,10 +1,10 @@
 # Business Recipients & Approval Settings
 
-_Summerville Admin Console › Manage Business › Business Recipients & Approval Settings_
+_Manage Business › Business Recipients & Approval Settings_
 
 ## Manage Business: Business Recipients & Approval Settings
 
-> Two independent sections of the business profile — Business Recipients holds the saved external payees, and Approval Settings holds the dual-control approver counts per payment type.
+> Business Recipients and Approval Settings are two independent sections of the business profile. Business Recipients holds the saved external payees. Approval Settings holds the dual-control approver counts per payment type.
 
 ### Step-by-Step Workflow
 

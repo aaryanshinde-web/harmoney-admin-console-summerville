@@ -1,10 +1,10 @@
 # Business Permissions & Limits
 
-_Summerville Admin Console › Manage Business › Business Permissions & Limits_
+_Manage Business › Business Permissions & Limits_
 
 ## Manage Business: Business Permissions & Limits
 
-> The feature-level access and dollar ceiling for the business — every user inherits both.
+> Business Permissions sets the features the business can use, and Business Limits sets the dollar ceilings on each. Every user in the business inherits both.
 
 ### Step-by-Step Workflow
 

@@ -1,10 +1,10 @@
 # Onboarding & Permission Templates
 
-_Summerville Admin Console › Manage Business › Onboarding & Permission Templates_
+_Manage Business › Onboarding & Permission Templates_
 
 ## Manage Business: Onboarding & Permission Templates
 
-> Add a new business to digital banking using its exact Business ID, and maintain the permission templates that every new business inherits on day one.
+> Onboarding adds a new business to digital banking using its exact Business ID. Permission Templates are the entitlement bundles every new business inherits on day one.
 
 ### Step-by-Step Workflow
 

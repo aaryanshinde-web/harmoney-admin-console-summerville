@@ -1,10 +1,10 @@
 # Business Entitlements
 
-_Summerville Admin Console › Manage Members › Business Entitlements_
+_Manage Members › Business Entitlements_
 
 ## Manage Members: Business Entitlements
 
-> Per-business permissions and limits for any member who manages a business — surfaced on the member's profile so support can answer "why can't this user do X" without leaving the profile.
+> Business Entitlements shows a member's per-business permissions and limits directly on the member profile. Use it to answer "why can't this user do X" without leaving the profile.
 
 ### Step-by-Step Workflow
 
@@ -29,8 +29,6 @@ The dollar caps that apply to this member through the business — per-transacti
 ### Summary
 
 Business Entitlements surfaces a member's per-business permissions and limits directly on the member profile. It's the fastest read on what a commercial signer is authorized to do and where their dollar caps sit. Most "my user can't do X" support tickets are resolved here.
-
-The same controls are also editable from the Business Profile via [Business Permissions & Limits](../03-manage-business/permissions-limits.md).
 
 ### Key Use Cases
 

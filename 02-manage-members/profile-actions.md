@@ -1,10 +1,10 @@
 # Profile Actions
 
-_Summerville Admin Console › Manage Members › Profile Actions_
+_Manage Members › Profile Actions_
 
 ## Manage Members: Profile Actions
 
-> Seven safeguard actions at the top of every member profile — each one opens a modal and writes to the audit trail.
+> Profile Actions are the seven safeguard actions at the top of every member profile. Each one opens a modal and writes to the audit trail.
 
 ### Step-by-Step Workflow
 

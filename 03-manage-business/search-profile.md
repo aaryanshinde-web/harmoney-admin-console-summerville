@@ -1,10 +1,10 @@
 # Business Search & Profile
 
-_Summerville Admin Console › Manage Business › Business Search & Profile_
+_Manage Business › Business Search & Profile_
 
 ## Manage Business: Business Search & Profile
 
-> The entry point for every business-level admin action — find the business, then open its profile.
+> Business Search & Profile is the entry point for every business-level admin action. Find the business first, then open its profile to make a change.
 
 ### Step-by-Step Workflow
 

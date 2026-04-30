@@ -1,10 +1,10 @@
 # Overview & Support
 
-_Summerville Admin Console › Manage Members › Overview & Support_
+_Manage Members › Overview & Support_
 
 ## Manage Members: Overview & Support
 
-> The first thing you see when you open a member profile — identity facts on the left, full action history on the right.
+> Overview & Support is the first screen you see when you open a member profile. The left side has identity facts; the right side has the full action history.
 
 ### Step-by-Step Workflow
 

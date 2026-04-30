@@ -1,10 +1,10 @@
 # Devices & Login
 
-_Summerville Admin Console › Manage Members › Devices & Login_
+_Manage Members › Devices & Login_
 
 ## Manage Members: Devices & Login
 
-> A view of every device the member has authenticated from, every login event, and every session detail. Use it to investigate unauthorized access reports and to gather evidence on disputed transactions.
+> Devices & Login shows every device the member has authenticated from, every login event, and every session detail. Use it to investigate unauthorized access reports and to gather evidence on disputed transactions.
 
 ### Step-by-Step Workflow
 

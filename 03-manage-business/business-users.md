@@ -1,10 +1,10 @@
 # Business Users
 
-_Summerville Admin Console › Manage Business › Business Users_
+_Manage Business › Business Users_
 
 ## Manage Business: Business Users
 
-> The diagnostic surface for commercial access issues — applied permissions and dollar limits for each employee, visible in two clicks.
+> Business Users shows every employee enrolled in the business with their assigned role, applied permissions, and dollar limits. Use it as the diagnostic surface for any access issue on a commercial user.
 
 ### Step-by-Step Workflow
 

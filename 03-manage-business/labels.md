@@ -1,10 +1,10 @@
 # Business Labels
 
-_Summerville Admin Console › Manage Business › Business Labels_
+_Manage Business › Business Labels_
 
 ## Manage Business: Business Labels
 
-> The segmentation vocabulary that drives campaigns, risk sweeps, and pricing reviews — own it, document it, and prune it regularly.
+> Business Labels are the segmentation tags that drive campaigns, risk sweeps, and pricing reviews. Maintain the catalogue carefully — labels feed every downstream report and journey.
 
 ### Step-by-Step Workflow
 

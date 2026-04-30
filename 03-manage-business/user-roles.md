@@ -1,10 +1,10 @@
 # Business User Roles
 
-_Summerville Admin Console › Manage Business › Business User Roles_
+_Manage Business › Business User Roles_
 
 ## Manage Business: Business User Roles
 
-> The role layer for the business — each role groups a set of permissions and dollar limits, and every business user is assigned a role.
+> Business User Roles defines the role each user in the business carries. Each role groups a set of permissions and dollar limits, and every business user is assigned to one role.
 
 ### Step-by-Step Workflow
 

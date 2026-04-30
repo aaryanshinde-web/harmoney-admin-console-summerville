@@ -1,10 +1,10 @@
 # Role Templates
 
-_Summerville Admin Console › Manage Business › Role Templates_
+_Manage Business › Role Templates_
 
 ## Manage Business: Role Templates
 
-> The central catalogue of pre-built roles that every business can seed from — edit carefully, because changes are credit-union-wide.
+> Role Templates are the credit-union-wide catalogue of pre-built roles every business can seed from. Edit a template carefully because the change applies to every business that uses it.
 
 ### Step-by-Step Workflow
 
