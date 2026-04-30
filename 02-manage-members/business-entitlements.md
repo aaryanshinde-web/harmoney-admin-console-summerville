@@ -1,6 +1,6 @@
 # Business Entitlements
 
-_Manage Members › Business Entitlements_
+_Manage Members › Member Search › Search Results › Member Profile › Business Entitlements_
 
 ## Manage Members: Business Entitlements
 

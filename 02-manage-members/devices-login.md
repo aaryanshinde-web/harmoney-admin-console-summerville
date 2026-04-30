@@ -1,6 +1,6 @@
 # Devices & Login
 
-_Manage Members › Devices & Login_
+_Manage Members › Member Search › Search Results › Member Profile › Devices & Login_
 
 ## Manage Members: Devices & Login
 

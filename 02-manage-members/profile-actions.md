@@ -1,6 +1,6 @@
 # Profile Actions
 
-_Manage Members › Profile Actions_
+_Manage Members › Member Search › Search Results › Member Profile › Profile Actions_
 
 ## Manage Members: Profile Actions
 

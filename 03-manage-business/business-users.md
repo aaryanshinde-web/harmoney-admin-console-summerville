@@ -1,6 +1,6 @@
 # Business Users
 
-_Manage Business › Business Users_
+_Manage Business › Business Search › Search Results › Business Profile › Business Users_
 
 ## Manage Business: Business Users
 

@@ -1,6 +1,6 @@
 # Business Search & Profile
 
-_Manage Business › Business Search & Profile_
+_Manage Business › Business Search_
 
 ## Manage Business: Business Search & Profile
 
