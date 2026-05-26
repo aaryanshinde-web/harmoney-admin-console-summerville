@@ -2,7 +2,7 @@
 
 _Manage Members › Member Search › Search Results › Member Profile › Accounts_
 
-## Manage Members: 
+## Manage Members: Accounts & Activity
 
 > Accounts & Activity is the financial activity view for a member. Use it for dispute investigation, fraud review, and alert-delivery diagnostics.
 
